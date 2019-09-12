@@ -31,7 +31,7 @@ npm run start-webdriver
 ### Run Protractor (in 3 terminal window)
 
 ```
-npm run protractor
+npm test
 ```
 
 
