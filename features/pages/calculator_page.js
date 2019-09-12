@@ -2,7 +2,9 @@
 var CalculatorPage = function() {
 
   this.get = function() {
-    browser.get('http://juliemr.github.io/protractor-demo/');
+   // browser.get('http://juliemr.github.io/protractor-demo/');
+    browser.get('http://localhost:8080/app/calculator/');
+
   };
 
   this.setFirstValue = function(value) {
